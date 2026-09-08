@@ -1,7 +1,7 @@
 
 # September 2026 Philippines FHIR® Connectathon – General Santos, SOCCSKSARGEN, Philippines
 
- **Disclaimer:** This repository is adapted from materials and artifacts used during the **Boracay FHIR Connectathon held on May 21, 2026**. It has been modified for use in the **Region 12 FHIR Connectathon** and may differ from the original repository and event materials.
+ **Disclaimer:** This repository is adapted from materials and artifacts used during the **Boracay FHIR Connectathon held on June 22-26, 2026**. It has been modified for use in the **Region 12 FHIR Connectathon** and may differ from the original repository and event materials.
 
 The September 2026 Region 12 FHIR® Connectathon is co-organized by the Department of Health Center for Health Development Region 12 with the UPM Standards and Interoperability Lab (SILab). In-kind support and funding were provided by the Strengthening Standards Capability Project (SSCP) of the Commonwealth Scientific and Industrial Research Organization (CSIRO), UP Mindanao, and other key stakeholders.
 
