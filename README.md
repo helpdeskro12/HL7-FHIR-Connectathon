@@ -426,7 +426,7 @@ FHIR® is a registered trademark of Health Level Seven International.
 
 This Connectathon is made possible through the collaborative efforts of the Department of Health (DOH) Center for Health Development 12.
 
-For questions and queries regarding the Connectathon, please contact **nih-nthc.upmanila@up.edu.ph**.
+For questions and queries regarding the Connectathon, please contact **ict@ro12.doh.gov.ph**.
 
 ---
 
